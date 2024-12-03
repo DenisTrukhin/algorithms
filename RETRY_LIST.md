@@ -10,3 +10,6 @@
 2. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
 3. [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/)
 4. [Rotate Array](https://leetcode.com/problems/rotate-array/description/)
+
+#### Two Pointers
+1. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)
