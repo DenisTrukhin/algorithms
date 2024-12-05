@@ -13,3 +13,5 @@
 
 #### Two Pointers
 1. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)
+2. [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
+3. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
