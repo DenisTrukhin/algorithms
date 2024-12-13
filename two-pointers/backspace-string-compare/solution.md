@@ -1,4 +1,4 @@
-```
+```python
 class Solution:
     def find_next_idx(self, s, i):
         skip_count = 0

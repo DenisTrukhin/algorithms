@@ -15,3 +15,10 @@
 1. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)
 2. [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
 3. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
+
+#### Sliding window
+1. [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)
+2. [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)
+
+#### Binary Search
+1. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
