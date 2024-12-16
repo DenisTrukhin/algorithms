@@ -22,3 +22,6 @@
 
 #### Binary Search
 1. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+
+#### Linked List
+1. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)
