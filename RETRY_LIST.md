@@ -29,3 +29,6 @@
 #### Stack
 1. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
 2. [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/)
+
+#### Points and intervals
+1. [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/)
