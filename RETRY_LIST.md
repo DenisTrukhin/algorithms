@@ -32,3 +32,4 @@
 
 #### Points and intervals
 1. [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/)
+2. [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)
